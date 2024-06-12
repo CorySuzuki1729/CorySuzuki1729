@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects and statistical research papers.
 - 📫 How to reach me: corygami107.cs@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have a full library of statistics textbooks.
+- ⚡ Fun fact: I have a full library of mathematics and statistics textbooks, some of which are from rare international collections.
 
 <!---
 CorySuzuki1729/CorySuzuki1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
