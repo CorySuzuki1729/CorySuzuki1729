@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cory Suzuki
 - 👀 I’m interested in data science, machine learning, artificial intelligence development, and data analytics.
-- 🌱 I’m currently learning Applied Cryptography, Deep Learning and Neural Networks, and data mining methods.
+- 🌱 I’m currently learning Applied Cryptography, Deep Learning and Neural Networks, and Data Mining methods.
 - 💞️ I’m looking to collaborate on data analysis/data science projects and statistical research papers.
 - 📫 How to reach me: corygami107.cs@gmail.com
 - 😄 Pronouns: He/Him/His
